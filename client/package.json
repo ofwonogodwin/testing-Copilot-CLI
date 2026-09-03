@@ -10,10 +10,10 @@
     "test:e2e": "npx --yes playwright install chromium && npx playwright test"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.9",
+    "@astrojs/check": "^0.9.10",
     "@astrojs/node": "^11.0.0",
-    "@astrojs/svelte": "^9.0.0",
-    "@tailwindcss/vite": "^4.3.1",
+    "@astrojs/svelte": "^9.0.1",
+    "@tailwindcss/vite": "^4.3.3",
     "astro": "^7.0.3",
     "svelte": "^5.50.2",
     "typescript": "^5.9.3"
